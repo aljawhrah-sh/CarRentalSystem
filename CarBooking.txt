@@ -1,0 +1,4 @@
+Car{carName=BMW, carColor=White, CarModel=GLE}ElectricCar{batteryCapacity=100.5}
+Car{carName=Jeep, carColor=Brown, CarModel=MEG}ElectricCar{batteryCapacity=50.2}
+Car{carName=Audi, carColor=Black, CarModel=LTD}PetrolCar{tankSize=90.1}
+Car{carName=Range, carColor=Red, CarModel=GSP}PetrolCar{tankSize=80.7}
